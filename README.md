@@ -2,11 +2,13 @@ PlexDownloader
 ==============
 Configuring PlexDownloader:
 
-1)Edit the user.ini with information that is relevant to your install.
+1)Rename the user.ini.config to user.ini.
 
-2)If you are downloading/syncing remotely you must enter your myplex information and enable myplex.
+2)Edit the user.ini with information that is relevant to your install.
 
-3)Start by running "python plexdl.py".
+3)If you are downloading/syncing remotely you must enter your myplex information and enable myplex.
+
+4)Start by running "python plexdl.py".
 
 You can find your movie/music/tv/photo section ID by visiting your Plex Web and going to the category you want to sync.
 
