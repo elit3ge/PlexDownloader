@@ -1,5 +1,6 @@
 *.txt
 *.ini
+
 # Compiled source #
 ###################
 *.com
@@ -39,7 +40,3 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
-
-*.ini
-
-*.txt
